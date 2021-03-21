@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "transportName": "BIKE",
+        "transportType": "bike",
+        "transportImg": "https://media.zigcdn.com/media/model/2021/Feb/royal-enfield-classic-350-dual-channel_360x240.jpg",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id" : 2,
+        "transportName": "CAR",
+        "transportType": "car",
+        "transportImg": "https://cdn.motor1.com/images/mgl/wORKo/s3/abt-audi-a6-allroad-2020.jpg",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id" : 3,
+        "transportName": "BUS",
+        "transportType": "bus",
+        "transportImg": "https://www.sustainable-bus.com/wp-content/uploads/2019/12/scania-bus4.jpg",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id" : 4,
+        "transportName": "TRAIN",
+        "transportType": "train",
+        "transportImg": "https://static.toiimg.com/thumb/msid-78287167,width-1200,height-900,resizemode-4/.jpg",
+        "capacity" : 4,
+        "cost" : "$67"
+    }
+]
